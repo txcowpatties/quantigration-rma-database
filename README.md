@@ -14,6 +14,12 @@ This project contains a MySQL database simulating a Return Merchandise Authoriza
 - `rma`: Product return records
 - `collaborator`: View or routine related to internal collaboration
 
+- ## 🗺️ Entity Relationship Diagram (ERD)
+
+This diagram illustrates the relationships between customers, orders, and RMA records.
+
+![ERD](diagrams/ERD.png)
+
 ## 🚀 Getting Started
 
 To explore or test the database:
